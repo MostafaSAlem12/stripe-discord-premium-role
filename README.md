@@ -9,7 +9,7 @@ Cancel the subscription → role removed.
 - discord.js bot assigns or removes the role
 
 ## Screenshots
-[the 4–5 screenshots]
+the images in the screenshots/ folder
 
 ## Setup
 - **Stripe product:** add metadata `premium` = `true` to the product that grants access.
